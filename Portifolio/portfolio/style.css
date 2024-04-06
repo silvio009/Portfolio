@@ -128,7 +128,7 @@ section .title::after{
 }
 
 .navbar .logo a span{
-    color: rgb(20, 238, 238);
+    color: rebeccapurple;
     transition: all 0.3s ease;
 }
 
@@ -137,7 +137,7 @@ section .title::after{
 }
 
 .navbar.sticky .logo a span::after {
-    color: #00FFFF;
+    color: rebeccapurple;
     content: "Silvio Junior";
     font-size: 0.8em;
 }
@@ -239,26 +239,26 @@ section .title::after{
 }
 
 .home .home-content .text-3 span{
-    color: #7FFFD4;
+    color: rebeccapurple;
     font-weight: 500;
 }
 
 .home .home-content a{
     display: inline-block;
-    background: rgb(1, 196, 202);
+    background:rebeccapurple;
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
     font-weight: 400;
     border-radius: 6px;
-    border: 2px solid rgb(0, 197, 204);
+    border: 2px solid black;
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
-    color: rgb(71, 232, 238);
-    background: rgba(1, 196, 202, 0.6);
-    border: #00FFFF solid 1px;
+    color: black;
+    background: #A020F0;
+    border:#FFFFFF solid 1px;
 }
 
 /* about section styling */
@@ -344,8 +344,7 @@ section .title::after{
 }
 
 .services .serv-content .card:hover{
-    background: rgba(0, 238, 255, 0.103);
-    border: #04e2ff75 solid 1px;
+    background: rebeccapurple;
     color: #FFFFFF;
 }
 
