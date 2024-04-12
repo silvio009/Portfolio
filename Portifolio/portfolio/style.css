@@ -831,3 +831,34 @@ h3 {
         width: 200px;
     }
 }
+
+
+/* Adicione estas linhas ao seu arquivo style.css */
+
+footer.main {
+    background-color: #333;
+    color: #fff;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.footer-wave {
+    position: relative;
+    height: 15px;
+    overflow: hidden;
+    background: #333;
+}
+
+.wave:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100%;
+    width: 200%;
+    background: linear-gradient(to right, rgba(51, 51, 51, 0), #333, rgba(51, 51, 51, 0));
+    animation: wave-animation 2s infinite linear;
+}
+
+
+
