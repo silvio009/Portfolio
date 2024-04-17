@@ -205,7 +205,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/fundo_teste.png") no-repeat center;
+    background: url("images/FundoPreto.png") no-repeat center;
     height: 100vh;
     color: black;
     min-height: 500px;
@@ -224,6 +224,7 @@ section .title::after{
 }
 
 .home .home-content .text-1{
+    color: #DCDCDC;
     font-size: 27px;
 }
 
@@ -231,6 +232,7 @@ section .title::after{
     font-size: 75px;
     font-weight: 600;
     margin-left: -3px;
+    color: #DCDCDC;
   }
 
 .home .home-content .text-3{
