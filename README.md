@@ -14,11 +14,11 @@ O site é composto por várias seções:
 ## 💼 Tecnologias utilizadas
 Para o desenvolvimento deste site, foram utilizadas as seguintes tecnologias:
 
-HTML5: Utilizado para estruturar o conteúdo da página.
-CSS3: Utilizado para estilizar e posicionar os elementos na página, garantindo um design atraente.
-JavaScript: Adiciona interatividade à página, como animações, eventos de clique e manipulação do DOM.
-jQuery: Simplifica a manipulação do DOM e o tratamento de eventos.
-Font Awesome: Fornece uma vasta biblioteca de ícones para melhorar a estética e a usabilidade do site.
-Typed.js: Cria o efeito de digitação automática em certas seções da página, proporcionando dinamismo ao texto.
-Waypoints.js: Detecta quando os elementos da página entram no viewport, permitindo a execução de ações específicas.
-Owl Carousel: Cria um carrossel de projetos na seção "Meus Projetos", facilitando a navegação entre eles.
+- HTML5: Utilizado para estruturar o conteúdo da página.
+- CSS3: Utilizado para estilizar e posicionar os elementos na página, garantindo um design atraente.
+- JavaScript: Adiciona interatividade à página, como animações, eventos de clique e manipulação do DOM.
+- jQuery: Simplifica a manipulação do DOM e o tratamento de eventos.
+- Font Awesome: Fornece uma vasta biblioteca de ícones para melhorar a estética e a usabilidade do site.
+- Typed.js: Cria o efeito de digitação automática em certas seções da página, proporcionando dinamismo ao texto.
+- Waypoints.js: Detecta quando os elementos da página entram no viewport, permitindo a execução de ações específicas.
+- Owl Carousel: Cria um carrossel de projetos na seção "Meus Projetos", facilitando a navegação entre eles.
