@@ -1,37 +1,24 @@
 # Protifolio
 Meu Portfolio 👨‍💻
 
-Estrutura e Estilo:
-1. HTML5 e CSS3:
+## 📚 Seções
+O site é composto por várias seções:
 
-HTML5 foi utilizado para estruturar o conteúdo da página, definindo elementos semânticos como <header>, <nav>, <section>, <footer>, etc.
-CSS3 foi utilizado para estilizar e posicionar os elementos na página, definindo cores, fontes, espaçamentos e layouts responsivos.
-Interatividade e Dinamismo:
-2. JavaScript:
+- **Home:** Apresenta uma saudação e uma breve introdução.
+- **Sobre mim:** Esta seção descreve um pouco sobre quem sou e minha paixão pela programação.
+- **Especialidades:** Destaca minhas habilidades e especializações em desenvolvimento de banco de dados, Java e análise de dados.
+- **Skills:** Exibe minhas habilidades em diversas linguagens e tecnologias, como Python, CSS, Java, Git, entre outras.
+- **Meus Projetos:** Apresenta alguns dos projetos que desenvolvi, com links diretos para seus repositórios no GitHub.
+- **Contate-me:** Fornece informações de contato, incluindo meu nome, endereço, e-mail e um formulário para envio de mensagem.
 
-JavaScript foi utilizado para adicionar interatividade à página, como animações, eventos de clique e manipulação do DOM (Document Object Model), proporcionando uma experiência mais dinâmica aos usuários.
-3. jQuery:
+## 💼 Tecnologias utilizadas
+Para o desenvolvimento deste site, foram utilizadas as seguintes tecnologias:
 
-A biblioteca jQuery foi utilizada para simplificar a manipulação do DOM e o tratamento de eventos, facilitando a implementação de funcionalidades como navegação suave e efeitos de transição.
-Elementos Visuais:
-4. Font Awesome:
-
-Font Awesome foi utilizado para adicionar ícones à página, fornecendo uma vasta biblioteca de ícones para escolher e melhorar a estética e a usabilidade do site.
-5. Typed.js:
-
-Typed.js foi utilizado para criar o efeito de digitação automática em certas seções da página, como a introdução, dando uma sensação de dinamismo ao texto e atraindo a atenção dos visitantes.
-6. Owl Carousel:
-
-Owl Carousel foi utilizado para criar um carrossel de projetos na seção "Meus Projetos", permitindo que os usuários naveguem horizontalmente por diferentes projetos de forma intuitiva e elegante.
-Funcionalidades Específicas:
-7. Waypoints.js:
-
-Waypoints.js foi utilizado para detectar quando os elementos da página entraram no viewport, permitindo a execução de ações específicas quando determinados elementos se tornam visíveis na tela, como animações ou carregamento de conteúdo sob demanda.
-8. Formulário de Contato:
-
-O formulário de contato está configurado para enviar dados para uma URL específica de uma plataforma de gerenciamento de email marketing (Mailchimp), possibilitando aos visitantes entrar em contato de forma fácil e segura.
-Responsividade e Layout:
-9. Grid e Flexbox:
-
-O projeto utiliza o sistema de grid e flexbox para criar um layout responsivo, adaptando-se a diferentes tamanhos de tela e garantindo uma experiência consistente em dispositivos móveis, tablets e desktops.
-
+HTML5: Utilizado para estruturar o conteúdo da página.
+CSS3: Utilizado para estilizar e posicionar os elementos na página, garantindo um design atraente.
+JavaScript: Adiciona interatividade à página, como animações, eventos de clique e manipulação do DOM.
+jQuery: Simplifica a manipulação do DOM e o tratamento de eventos.
+Font Awesome: Fornece uma vasta biblioteca de ícones para melhorar a estética e a usabilidade do site.
+Typed.js: Cria o efeito de digitação automática em certas seções da página, proporcionando dinamismo ao texto.
+Waypoints.js: Detecta quando os elementos da página entram no viewport, permitindo a execução de ações específicas.
+Owl Carousel: Cria um carrossel de projetos na seção "Meus Projetos", facilitando a navegação entre eles.
