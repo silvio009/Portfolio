@@ -2,6 +2,9 @@
   💻<br>Portfólio - Silvio Junior
 </h1>
 
+![Resultado final do projeto](assets/image/preview.png)
+
+
 ## 📚 Seções
 O site é composto por várias seções:
 
