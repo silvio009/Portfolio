@@ -291,7 +291,7 @@ section .title::after{
 }
 
 .about .about-content .right .text span{
-    color: rgb(1, 196, 202);
+    color: rebeccapurple;
 }
 
 .about .about-content .right p{
@@ -574,7 +574,7 @@ section .title::after{
     margin: 0 5px;
     outline: none!important;
     border-radius: 50%;
-    border: 2px solid rgb(1, 196, 202)!important;
+    border: 2px solid rebeccapurple!important;
     transition: all 0.3s ease;
 }
 
@@ -585,7 +585,7 @@ section .title::after{
 
 .owl-dot.active,
 .owl-dot:hover{
-    background: rgb(1, 196, 202)!important;
+    background: rebeccapurple!important;
 }
 /* contact section styling */
 
@@ -725,7 +725,7 @@ footer span a:hover{
     position:relative;
     top:.1em;
     font-size:1.8em;
-    color:#00FFFF;
+    color :rebeccapurple;
     transform:scale(.9);
     animation:love .5s linear infinite alternate-reverse;
    }
@@ -862,5 +862,109 @@ footer.main {
     animation: wave-animation 2s infinite linear;
 }
 
+
+
+/* Adicione estas linhas de código ao seu arquivo CSS */
+
+/* Estilos para telas menores */
+
+@media only screen and (max-width: 768px) {
+    .max-width {
+        padding: 0 30px;
+    }
+
+    .navbar .menu {
+        display: none;
+    }
+
+    .navbar .menu-btn {
+        display: block;
+    }
+
+    .navbar .menu-btn:hover {
+        color: #fff;
+    }
+
+    .navbar .logo a {
+        font-size: 30px;
+    }
+
+    .home .home-content .text-1 {
+        font-size: 20px;
+    }
+
+    .home .home-content .text-2 {
+        font-size: 50px;
+    }
+
+    .home .home-content .text-3 {
+        font-size: 30px;
+    }
+
+    .services .serv-content .card,
+    .teams .carousel .card {
+        width: calc(50% - 20px);
+        margin: 10px;
+    }
+
+    .skills .skills-content .column {
+        width: 100%;
+    }
+
+    .contact .contact-content .column {
+        width: 100%;
+    }
+
+    .contact .right form .fields {
+        padding-top: 20px;
+    }
+
+    .contact .right form .button-area button {
+        width: 100%;
+    }
+
+    .tecnologias .content .tecnologiasBx {
+        max-width: 45%;
+    }
+
+    footer.main {
+        padding: 30px 0;
+    }
+}
+
+/* Estilos para telas ainda menores */
+
+@media only screen and (max-width: 480px) {
+
+    .about .about-content {
+        flex-direction: column; 
+    }
+
+    .about .about-content .left,
+    .about .about-content .right {
+        width: 100%; 
+    }
+
+    .about .about-content .left img {
+        margin-bottom: 20px; 
+    }
+    .home .home-content .text-2 {
+        font-size: 40px;
+    }
+
+    .home .home-content .text-3 {
+        font-size: 25px;
+    }
+
+    .services .serv-content .card,
+    .teams .carousel .card {
+        width: calc(100% - 20px);
+        margin: 10px 0;
+    }
+
+    .tecnologias .content .tecnologiasBx {
+        max-width: 100%;
+    }
+}
 
 
