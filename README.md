@@ -2,7 +2,7 @@
   💻<br>Portfólio - Silvio Junior
 </h1>
 
-![Resultado final do projeto](assets/image/ProjetoFinal)
+![Resultado final do projeto](assets/image/https://github.com/silvio009/Protifolio/issues/1#issue-2251189899)
 <h4 align="center"><a href="https://www.iuricode.com/">Clique para visitar o projeto</a></h4>
 
 
